@@ -1,12 +1,12 @@
 # Space Shooter
 
+(Officially Dibuat untuk memenuhi UAS Mata Kuliah Praktikum Sistem Multimedia)
 A simple game space shooter. Combining a few asset with simple idea.
 
 ## About Game
 
-<img src="img.png" width="50%" height="auto">
+<img src="img.png" width="75%" height="auto">
 
-<br>
 <hr>
 
 Watch how I made this game on <a href="https://youtu.be/GqWTYGAzWeY">Youtube</a>
